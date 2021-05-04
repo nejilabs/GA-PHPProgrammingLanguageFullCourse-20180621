@@ -1,4 +1,4 @@
-# GA-PHP
+# GA-PHPProgrammingLanguageFullCourse-20180621
 
 freecodecamp (Giraffe Academy) - PHP Programming Language Tutorial - Full Course (Jun 21, 2018)
 Link: https://www.youtube.com/watch?v=OK_JCtrrv-c
